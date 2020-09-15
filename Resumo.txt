@@ -1,0 +1,20 @@
+Parabéns por ter concluído o terceiro curso da carreira de Acessibilidade da Alura, e por ter se interessado em buscar conhecimento sobre um assunto que hoje em dia, ainda é dubestimado. Porém, tenho certeza que em um futuro próximo todos estarão entendendo melhor a importância disto.
+
+Acredito também que, no futuro, muito do que normalmente fazemos manualmente será incorporado tanto pela linguagem HTML, como JS - da forma mostrada durante o curso. A tendência é que o processo se torne mais prático, rápido, como quando tínhamos o campo de preenchimento obrigatório manual e, atualmente, fazemos por required.
+
+No site da Apeperia:
+
+implementamos a classe escondeVisualmente, pensando na usabilidade para quem utiliza leitores de tela;
+deixamos a parte dos planos mais descritiva;
+melhoramos o carrossel do Blog, que pode ter os componentes alterados apenas com CSS puro, mas isto às vezes pode comprometer a acessibilidade;
+vimos e melhoramos as janelas, os pop ups que aparecem de forma um tanto "invasiva", os modais, ou dialogs;
+também melhoramos o formulário de contato, em que validamos o campo para CEP, incluímos mensagens de erro personalizadas e sugestões quando há erros de digitação - inclusive recomendo que a mensagem de erro seja um link para que o valor incorreto seja corrigido; E no mesmo formulário, alteramos o checkbox* para que ele fosse identificado pelo leitor de telas.
+De novo, espero que tenham gostado do curso. Desejo que eu tenha conseguido compartilhar este conhecimento e que você, por favor, continue pesquisando sobre o assunto e aprendendo mais. Comece a implementar aos poucos a cultura de pensar em acessibilidade no seu cotidiano, na empresa em que trabalha e apontando melhorias ao time. Às vezes, é algo simples e fácil de implementar. Sem precisar jogar o projeto fora e começar do zero.
+
+Alguns links interessantes:
+
+WAVE (Web Accessibility Evaluation Tool)
+AChecker
+Se conhecer uma nova ferramenta, querer acrescentar ou comentar algo que foi passado no curso, crie um novo tópico no fórum. Vamos fomentar essa conversa sobre acessibilidade.
+
+Muito obrigado e até o próximo curso!
